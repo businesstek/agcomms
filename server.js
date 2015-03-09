@@ -7,5 +7,5 @@ http.createServer(function(req, res) {
 'Content-Type': 'text/plain'
   });
   res.end('Welcome to Ag Comms');
-}).listen(80);
-console.log('Server running at http://localhost:3000/');
+}).listen(8000);
+console.log('Server running at http://localhost:8000/');

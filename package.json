@@ -1,0 +1,26 @@
+{
+  "name": "agcomms",
+  "version": "1.0.0",
+  "description": "aws to globalstar and to android",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/businesstek/agcomms.git"
+  },
+  "keywords": [
+    "agcomms"
+  ],
+  "author": "agcomms",
+  "license": "private",
+  "bugs": {
+    "url": "https://github.com/businesstek/agcomms/issues"
+  },
+  "homepage": "https://github.com/businesstek/agcomms"
+}

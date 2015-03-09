@@ -2,7 +2,7 @@
  
 # Invoke the Forever module (to START our Node.js server).
 ./node_modules/forever/bin/forever \
-start \
+start.sh \
 -al forever.log \
 -ao out.log \
 -ae err.log \
